@@ -1,0 +1,55 @@
+body {
+  background: rgb(237,255,234);
+ background: linear-gradient(90deg, rgba(237,255,234,1) 0%, rgba(117,218,173,1) 33%, rgba(33,99,83,1) 66%, rgba(122,77,29,1) 100%);
+}
+
+#title {
+  font-size: 300%;
+  font-weight: bold;
+}
+
+hr {
+  border: none;
+  background-color: black;
+  height: 4px;
+  width: 45%;
+}
+
+#bbqsauce1 {
+  height: 20%;
+  width: 20%;
+}
+
+h1 {
+  font-size: 250%
+}
+
+.normallist {
+  font-size : 150%
+}
+
+.large-div {
+margin: 0 auto;
+width: 50%  ;
+text-align: center;
+}
+
+#bbqsaucefact {
+  height: 30%;
+  width: 30%
+}
+
+.small-div {
+margin: 0 auto;
+width: 20%  ;
+text-align: center;
+}
+
+#sure {
+  padding-bottom: 3%
+}
+
+div {
+  padding-bottom: 0.5%;
+  padding-top: 1%
+}
